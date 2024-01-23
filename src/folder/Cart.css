@@ -1,0 +1,25 @@
+
+
+.btn5 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+
+}
+
+.title1{
+    color: blue;
+    margin-top: 450px;
+    margin-left: -200px;
+}
+.nav-cart2{
+    margin-right: 10px;
+    color: white;
+    margin-top: -10px;
+  
+}  
+.nav-cart2:hover {
+
+    color: rgb(255, 0, 0);
+    
+}
